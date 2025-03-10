@@ -1,11 +1,13 @@
 # usermode-taskscheduler, @8snd
 This is a POC of a usermode taskscheduler for roblox, 
-> [!NOTE]
-> This code is detected (ReadProcessMemory), without the use of a driver. We do not accept any liability for how this code is used.
-> We are not affiliated with Roblox, and we do not condone or support cheating in any form. This project is intended strictly for development and research purposes.
+> ⚠ **Disclaimer**  
+> This code is **detected** (`ReadProcessMemory`) without the use of a driver. We do **not** accept any liability for how this code is used.  
+> We are **not affiliated** with Roblox, and we do **not** condone or support cheating in any form. This project is intended strictly for **development and research purposes**.  
 
-The offsets found in task.hpp will need updating.
-This code uses an imgui overlay to display:
+## Notes  
+- The offsets in `task.hpp` **will need updating**.  
+- This project includes an **ImGui overlay** displaying relevant task scheduler information:  
+
 
 ```
 Roblox Task Scheduler - @8snd
