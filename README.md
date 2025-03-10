@@ -15,6 +15,6 @@ Task Scheduler: 0xFFFFFFFFFF
 DataModel: 0xFFFFFFFFFFF
 RenderJob: 0xFFFFFFFFFFF
 Total Jobs: 00
+**In-game**: `DataModel` is **Ugc**.  
+In game, DataModel is Ugc. (or, In homepage, DataModel is LuaApp)
 ```
-- **In-game**: `DataModel` is **Ugc**.  
-- **On the homepage**: `DataModel` is **LuaApp**.  
